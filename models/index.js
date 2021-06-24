@@ -19,12 +19,12 @@ Product.belongsToMany(Tag, {
 	through: {
 		model: ProductTag,
 	},
-	as: 'cat_tag'
+	as: 'product_tags'
 });
 // Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
 	through: {
-		model: ProductTag
+		model: ProductTag,
 	},
 	as: 'all_products'
 });
