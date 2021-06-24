@@ -1,8 +1,8 @@
 # e-commerce back end
-![alt text](assets/images/screenshot.png)
+![alt text](assets/images/screenshot.gif)
 
 ## Description
-- 
+- An e-commerce back end which allows for creation, review, update, and deletion
 
 ### The User Story for this project is as follows:
 - AS A manager at an internet retail company, I WANT a back end for my e-commerce website that uses the latest technologies, SO THAT my company can compete with other e-commerce companies
@@ -17,11 +17,11 @@
 ### Installation
 - The project is uploaded to [GitHub](https://github.com/) at the following repository: [here](https://github.com/sourslaw/e-commerce_back_end)
 
-### Usage
-![alt text](assets/images/screenshot_usage.gif)
-
 ### Credits
-- 
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Express](https://expressjs.com/)
+- [mysql2](https://www.npmjs.com/package/mysql2)
+- [Sequelize](https://sequelize.org/v3/)
 
 ### License
 - Licensed under the [MIT](https://opensource.org/licenses/mit-license.php) license.
