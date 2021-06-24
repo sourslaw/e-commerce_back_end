@@ -1,5 +1,5 @@
 # e-commerce back end
-![alt text](assets/images/screenshot.gif)
+![alt text](assets/images/screenshot.png)
 
 ## Description
 - An e-commerce back end which allows for creation, review, update, and deletion
@@ -16,6 +16,10 @@
 
 ### Installation
 - The project is uploaded to [GitHub](https://github.com/) at the following repository: [here](https://github.com/sourslaw/e-commerce_back_end)
+
+### Usage
+![alt text](assets/images/screenshot.gif)
+- The back end may be evaluated using an API client
 
 ### Credits
 - [dotenv](https://www.npmjs.com/package/dotenv)
